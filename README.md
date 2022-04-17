@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crisil
-- 👀 I’m interested in degital design and programming
+- 👀 I’m interested in digital design and programming
 
 <!---
 Crisil/Crisil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
